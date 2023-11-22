@@ -3,8 +3,9 @@
 /*
     Plugin Name: Search by Slug
     Description: This plugin allows you to search for a post or page by its slug
-    Author: ElDiablo
-    Version: 1.1.0
+    Author: White Stone Dev
+    Author URI: https://whitestonedev.com/
+    Version: 1.0.0
 */
 
 const SBS_SEARCH_COMMAND = 'slug:';
